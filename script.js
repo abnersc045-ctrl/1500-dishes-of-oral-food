@@ -1,0 +1,1 @@
+const f=['Chocolate was once used as money by the Aztecs.','Honey never spoils.','Avocados are fruits.','Nachos were invented in Mexico.','Vanilla comes from orchids.'];document.getElementById('factBtn').onclick=()=>{document.getElementById('fact').textContent=f[Math.floor(Math.random()*f.length)]};
