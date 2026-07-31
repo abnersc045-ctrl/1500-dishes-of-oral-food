@@ -1,1 +1,0 @@
-# Version without Today's Menu section.
